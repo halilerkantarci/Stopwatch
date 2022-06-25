@@ -1,8 +1,8 @@
 const minute = document.querySelector(".minute");
 const second = document.querySelector(".second");
 const miliSecond = document.querySelector(".milisecond");
-const playBtn = document.querySelector(".play");
-const resetBtn = document.querySelector(".reset");
+const playBtn = document.querySelector(".bn22");
+const resetBtn = document.querySelector(".bn28");
 
 let interval;
 
